@@ -34,6 +34,7 @@ nav:
   - Actualizar Ubuntu 20.04 a Ubuntu 22.04: A20_22.md
   - Problema de funcionamiento de Pyserial: pyse.md
   - Problema con actualización de Snap Store: psnap.md
+  - Dispositivos CH340 USB no funcionan en Ubuntu 22.04: ch340.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
     - Licencias: Miscelanea/lic.md
