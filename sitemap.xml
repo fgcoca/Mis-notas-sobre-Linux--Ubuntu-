@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/</loc>
-         <lastmod>2022-11-11</lastmod>
+         <lastmod>2023-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/A20_22/</loc>
-         <lastmod>2022-11-11</lastmod>
+         <lastmod>2023-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/archimagen/</loc>
+         <lastmod>2023-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/ch340/</loc>
-         <lastmod>2022-11-11</lastmod>
+         <lastmod>2023-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/psnap/</loc>
-         <lastmod>2022-11-11</lastmod>
+         <lastmod>2023-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/pyse/</loc>
-         <lastmod>2022-11-11</lastmod>
+         <lastmod>2023-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/Miscelanea/about/</loc>
-         <lastmod>2022-11-11</lastmod>
+         <lastmod>2023-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/Miscelanea/lic/</loc>
-         <lastmod>2022-11-11</lastmod>
+         <lastmod>2023-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/Miscelanea/soft/</loc>
-         <lastmod>2022-11-11</lastmod>
+         <lastmod>2023-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/Miscelanea/webgrafia/</loc>
-         <lastmod>2022-11-11</lastmod>
+         <lastmod>2023-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
