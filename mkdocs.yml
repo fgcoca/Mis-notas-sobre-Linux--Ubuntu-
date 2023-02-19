@@ -35,6 +35,7 @@ nav:
   - Problema de funcionamiento de Pyserial: pyse.md
   - Problema con actualización de Snap Store: psnap.md
   - Dispositivos CH340 USB no funcionan en Ubuntu 22.04: ch340.md
+  - Archivo AppImage no se ejecuta: archimagen.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
     - Licencias: Miscelanea/lic.md
