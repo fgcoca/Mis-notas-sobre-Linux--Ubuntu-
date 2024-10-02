@@ -27,6 +27,8 @@ En la figura siguiente vemos abierto el archivo y se ha marcado la línea que te
 
 *Wayland comentado*
 
+</center>
+
 En la figura siguiente vemos la línea sin comentario.
 
 <center>
@@ -34,6 +36,8 @@ En la figura siguiente vemos la línea sin comentario.
 ![Wayland no comentado](./img/shu/way1.png)
 
 *Wayland no comentado*
+
+</center>
 
 En estas condiciones guardamos los cambios realizados en el archivo, salimos del editor nano y reseteamos gnome mediante la siguiente orden en una terminal:
 
@@ -48,3 +52,5 @@ Ahora podemos ejecutar de nuevo Shutter y comprobar que todas las opciones está
 ![Shutter sin problemas](./img/shu/shu_ok.png)
 
 *Shutter sin problemas*
+
+</center>

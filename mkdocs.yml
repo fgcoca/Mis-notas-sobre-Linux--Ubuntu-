@@ -38,6 +38,7 @@ nav:
   - Archivo AppImage no se ejecuta: archimagen.md
   - Configurar Shutter en Ubuntu 22.04: shu.md
   - Peek no graba el cursor del ratón: peek.md
+  - Cerrar programas que no responden: close.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
     - Licencias: Miscelanea/lic.md
